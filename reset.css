@@ -1,0 +1,2960 @@
+:root {
+    --color:inherit;--brighter-color:inherit;--darker-color:inherit}
+
+abbr[title] {
+    text-decoration:inherit
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin:inherit;
+    padding:inherit;
+    font-weight:inherit
+}
+
+h2 {
+    font-size:inherit
+}
+
+h1 {
+    font-size:inherit
+}
+
+p {
+    margin:inherit;
+    padding:inherit
+}
+
+strong {
+    font-weight:inherit
+}
+
+fieldset {
+    border:inherit
+}
+
+legend {
+    padding:inherit
+}
+
+ul.nolist {
+    margin:inherit;
+    padding:inherit;
+    list-style:inherit
+}
+
+.float_left {
+    float:inherit
+}
+
+.float_right {
+    float:inherit
+}
+
+.align_left {
+    text-align:inherit
+}
+
+.align_right {
+    text-align:inherit
+}
+
+.align_center {
+    text-align:inherit
+}
+
+body,html {
+    background:inherit
+}
+
+body {
+    margin:inherit;
+    color:inherit;
+    font-family:inherit;
+    font-size:inherit;
+    text-align:inherit;
+    line-height:inherit
+}
+
+button,input,optgroup,select,textarea {
+    font-family:inherit
+}
+
+a.subject_new,a.subject_old {
+    display:inherit
+}
+
+.hidden-t {
+    text-align:inherit
+}
+
+.hidden-t span {
+    background-color:inherit;
+    padding:inherit;
+    border-radius:inherit;
+    border:inherit;
+    vertical-align:inherit;
+    margin-top:inherit;
+    color:inherit
+}
+
+.tbtn {
+    background:inherit;
+    padding:inherit;
+    font-size:inherit;
+    border-radius:inherit;
+    text-transform:inherit;
+    cursor:inherit;
+    opacity:inherit
+}
+
+.tbtn:inherit{
+    opacity:inherit
+}
+
+.tright {
+    float:inherit;
+    display:inherit
+}
+
+@media screen and (max-width:inherit{
+    #sidebar,#index_constraint {
+        width:inherit
+    }
+
+    #header {
+        display:inherit
+    }
+
+    .head {
+        margin-top:inherit
+    }
+}
+
+.startd {
+    cursor:inherit;
+    text-shadow:inherit;
+    color:inherit
+}
+
+.startd:inherit{
+    color:inherit
+}
+
+.dropdown-menu {
+    border:inherit;
+    background-color:inherit
+}
+
+.dropdown-menu li {
+    border-top:inherit;
+    padding:inherit
+}
+
+.dropdown-menu li:inherit{
+    border-top:inherit
+}
+
+.dropdown-menu li:inherit{
+    background-color:inherit
+}
+
+.dropdown-menu {
+    list-style:inherit;
+    padding:inherit;
+    margin:inherit
+}
+
+.dropdown-menu a:inherit{
+    cursor:inherit
+}
+
+.q-collapsed {
+    overflow:inherit;
+    max-height:inherit;
+    position:inherit;
+    padding-bottom:inherit
+}
+
+.q-collapsed:inherit{
+    box-sizing:inherit;
+    position:inherit;
+    height:inherit;
+    content:inherit;
+    bottom:inherit;
+    left:inherit;
+    right:inherit;
+    font-size:inherit;
+    line-height:inherit;
+    text-align:inherit;
+    color:inherit;
+    cursor:inherit;
+    padding-top:inherit;
+    background:inherit;
+    border-bottom-left-radius:inherit;
+    border-bottom-right-radius:inherit
+}
+
+.overflow {
+    overflow:inherit
+}
+
+.inline {
+    display:inherit
+}
+
+pre>br {
+    display:inherit
+}
+
+.cite {
+    float:inherit;
+    font-weight:inherit;
+    cursor:inherit
+}
+
+.vid {
+    height:inherit;
+    max-width:inherit;
+    border-left:inherit;
+    border-right:inherit;
+    border-radius:inherit
+}
+
+.vid-container {
+    position:inherit
+}
+
+.vid-overlay {
+    position:inherit;
+    display:inherit;
+    z-index:inherit;
+    bottom:inherit;
+    left:inherit;
+    padding:inherit;
+    background:inherit;
+    color:inherit;
+    text-shadow:inherit
+}
+
+#panel div.constraint a.anchor,#panel div.constraint a.anchor:inherit{
+    user-select:inherit
+}
+
+.fag {
+    background:inherit;
+    padding:inherit
+}
+
+.fag:inherit{
+    content:inherit;
+    font-family:inherit;
+    text-align:inherit;
+    padding-bottom:inherit;
+    display:inherit
+}
+
+.folderimg {
+    width:inherit;
+    height:inherit;
+    display:inherit
+}
+
+.l-menu {
+    display:inherit;
+    position:inherit;
+    background:inherit;
+    border:inherit
+}
+
+.l-menu a {
+    display:inherit;
+    padding:inherit;
+    color:inherit;
+    text-decoration:inherit;
+    text-shadow:inherit;
+    border-top:inherit;
+    border-bottom:inherit;
+    font-size:inherit
+}
+
+.l-menu a:inherit{
+    background:inherit
+}
+
+.l-menu a:inherit{
+    border-top:inherit
+}
+
+.l-menu a:inherit{
+    border-bottom:inherit
+}
+
+.u-details {
+    text-align:inherit;
+    padding-left:inherit;
+    padding-right:inherit
+}
+
+.holder {
+    padding:inherit
+}
+
+.item-a {
+    display:inherit
+}
+
+.item-b {
+    float:inherit
+}
+
+#panel div.constraint a.anchor,#panel div.constraint a.anchor:inherit{
+    display:inherit;
+    position:inherit;
+    height:inherit;
+    padding:inherit;
+    margin-right:inherit;
+    color:inherit;
+    text-align:inherit
+}
+
+.post_body img {
+    max-width:inherit
+}
+
+.bl {
+    border-left:inherit
+}
+
+.tbit {
+    white-space:inherit;
+    text-align:inherit;
+    vertical-align:inherit;
+    border-right:inherit
+}
+
+.ubit {
+    vertical-align:inherit;
+    border-left:inherit
+}
+
+.obit {
+    width:inherit;
+    text-align:inherit;
+    border-right:inherit
+}
+
+.post_body {
+    overflow:inherit;
+    max-width:inherit;
+    word-break:inherit
+}
+
+.signature {
+    overflow:inherit;
+    max-width:inherit;
+    max-height:inherit
+}
+
+.signature img {
+    max-width:inherit
+}
+
+#panel {
+    font-size:inherit;
+    float:inherit
+}
+
+#panel .dd_right {
+    background:inherit;
+    float:inherit;
+    width:inherit;
+    height:inherit;
+    padding:inherit;
+    text-align:inherit
+}
+
+#panel ul {
+    position:inherit;
+    margin:inherit;
+    padding:inherit;
+    font-size:inherit
+}
+
+#panel ul li {
+    display:inherit;
+    list-style:inherit;
+    width:inherit;
+    margin:inherit;
+    padding:inherit
+}
+
+#panel ul li a:inherit{
+    background:inherit;
+    color:inherit;
+    text-decoration:inherit
+}
+
+#panel input.textbox:inherit{
+    border:inherit
+}
+
+#panel .dd {
+    display:inherit;
+    position:inherit;
+    z-index:inherit;
+    right:inherit;
+    background:inherit;
+    width:inherit;
+    color:inherit;
+    text-align:inherit
+}
+
+#panel .dd_left {
+    float:inherit;
+    width:inherit;
+    height:inherit;
+    padding:inherit
+}
+
+#panel .dd_login {
+    display:inherit;
+    position:inherit;
+    z-index:inherit;
+    right:inherit;
+    background:inherit;
+    height:inherit;
+    color:inherit;
+    text-align:inherit
+}
+
+#panel input.textbox {
+    display:inherit;
+    background:inherit;
+    width:inherit;
+    margin-bottom:inherit;
+    padding:inherit;
+    border:inherit
+}
+
+#panel div.constraint {
+    list-style:inherit;
+    display:inherit;
+    float:inherit;
+    padding:inherit
+}
+
+#panel div.constraint a.anchor:inherit{
+    background:inherit;
+    text-decoration:inherit
+}
+
+#panel div.constraint a.hovered {
+    background:inherit
+}
+
+#panel .avatar {
+    width:inherit;
+    height:inherit;
+    margin:inherit;
+    margin-bottom:inherit;
+    border:inherit;
+    border-radius:inherit
+}
+
+#panel .dd_login_ {
+    width:inherit;
+    height:inherit;
+    padding:inherit
+}
+
+#panel ul.stats li {
+    background:inherit;
+    width:inherit;
+    margin-top:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+#panel a.alt:inherit{
+    background:inherit
+}
+
+#panel a.alt:inherit{
+    position:inherit;
+    float:inherit;
+    height:inherit;
+    padding:inherit;
+    color:inherit
+}
+
+#panel ul li a:inherit{
+    display:inherit;
+    background:inherit;
+    padding:inherit;
+    color:inherit
+}
+
+.post_content {
+    padding:inherit
+}
+
+.clear {
+    clear:inherit
+}
+
+.tborder {
+    background:inherit;
+    width:inherit;
+    padding:inherit;
+    margin:inherit;
+    border-radius:inherit;
+    border:inherit
+}
+
+input.textbox {
+    background:inherit;
+    padding:inherit;
+    border:inherit;
+    border-radius:inherit;
+    color:inherit
+}
+
+a.search_adv:inherit{
+    background:inherit;
+    text-decoration:inherit
+}
+
+.invalid_field {
+    background:inherit;
+    padding:inherit;
+    border:inherit;
+    border-radius:inherit;
+    color:inherit
+}
+
+.menu ul li a:inherit{
+    background:inherit;
+    color:inherit;
+    text-decoration:inherit
+}
+
+.foot {
+    border:inherit;
+    border-bottom-left-radius:inherit;
+    border-bottom-right-radius:inherit;
+    border-top:inherit;
+    padding:inherit;
+    height:inherit;
+    width:inherit;
+    margin:inherit;
+    background:inherit;
+    position:inherit;
+    z-index:inherit;
+    margin-bottom:inherit
+}
+
+.red_alert {
+    background:inherit;
+    padding:inherit;
+    margin-bottom:inherit;
+    border-radius:inherit;
+    color:inherit;
+    text-align:inherit;
+    font-size:inherit
+}
+
+.pagination_breadcrumb_link {
+    vertical-align:inherit;
+    cursor:inherit
+}
+
+.editor_control_bar {
+    background:inherit;
+    border:inherit
+}
+
+a.large_button {
+    background:inherit;
+    padding:inherit;
+    border-radius:inherit;
+    font-size:inherit
+}
+
+.pagination .pagination_current,.pagination a {
+    padding:inherit;
+    margin-bottom:inherit;
+    border-radius:inherit
+}
+
+.bg-dark {
+    background:inherit
+}
+
+.bg-normal {
+    background:inherit
+}
+
+.btn-n,input.button {
+    background:inherit;
+    padding:inherit;
+    border:inherit;
+    border-radius:inherit;
+    color:inherit;
+    font-size:inherit;
+    text-shadow:inherit
+}
+
+table tr:inherit{
+    border-bottom:inherit;
+    border-bottom-right-radius:inherit;
+    border-bottom-left-radius:inherit
+}
+
+.tcat {
+    background:inherit;
+    color:inherit;
+    font-size:inherit;
+    text-transform:inherit
+}
+
+.trow_reputation_negative {
+    border-left:inherit
+}
+
+.subject_new {
+    font-weight:inherit
+}
+
+.navigation {
+    background:inherit;
+    list-style:inherit;
+    overflow:inherit;
+    margin:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+.navigation li:inherit{
+    content:inherit;
+    display:inherit;
+    width:inherit;
+    border-top:inherit;
+    border-bottom:inherit;
+    border-left:inherit;
+    position:inherit;
+    top:inherit;
+    margin-top:inherit;
+    margin-left:inherit;
+    left:inherit;
+    z-index:inherit
+}
+
+.navigation li.active {
+    padding:inherit;
+    color:inherit
+}
+
+.navigation li:inherit{
+    padding-left:inherit
+}
+
+.navigation li {
+    color:inherit;
+    text-decoration:inherit;
+    padding:inherit;
+    margin-right:inherit;
+    background:inherit;
+    position:inherit;
+    display:inherit;
+    float:inherit
+}
+
+.navigation li a {
+    padding:inherit
+}
+
+.navigation li a:inherit{
+    color:inherit
+}
+
+.navigation li:inherit{
+    content:inherit;
+    display:inherit;
+    width:inherit;
+    height:inherit;
+    border-top:inherit;
+    border-bottom:inherit;
+    border-left:inherit;
+    position:inherit;
+    top:inherit;
+    margin-top:inherit;
+    left:inherit;
+    z-index:inherit
+}
+
+.dot {
+    height:inherit;
+    width:inherit;
+    display:inherit;
+    margin-right:inherit;
+    border-radius:inherit;
+    vertical-align:inherit
+}
+
+#sidebar {
+    width:inherit;
+    float:inherit
+}
+
+.menu ul li ul li a:inherit{
+    display:inherit;
+    width:inherit;
+    height:inherit;
+    background:inherit;
+    padding:inherit;
+    font-weight:inherit;
+    text-transform:inherit
+}
+
+.pm_alert a:inherit{
+    color:inherit
+}
+
+.menu ul {
+    list-style:inherit;
+    margin:inherit;
+    padding:inherit;
+    color:inherit
+}
+
+.menu ul li {
+    display:inherit;
+    float:inherit;
+    padding:inherit
+}
+
+.menu ul li ul {
+    display:inherit;
+    position:inherit;
+    z-index:inherit;
+    width:inherit;
+    padding:inherit;
+    border-radius:inherit;
+    font-weight:inherit
+}
+
+.menu ul li ul li {
+    margin:inherit;
+    padding:inherit;
+    box-shadow:inherit;
+    font-size:inherit
+}
+
+.menu ul li ul li a:inherit{
+    background:inherit
+}
+
+.menu ul li img.icon {
+    vertical-align:inherit;
+    margin-right:inherit
+}
+
+blockquote {
+    border:inherit;
+    border-left:inherit;
+    margin:inherit;
+    background:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+blockquote cite {
+    font-weight:inherit;
+    border-bottom:inherit;
+    font-style:inherit;
+    display:inherit;
+    margin:inherit
+}
+
+blockquote cite span.highlight {
+    float:inherit;
+    font-weight:inherit;
+    padding-bottom:inherit
+}
+
+blockquote cite span {
+    float:inherit;
+    font-weight:inherit
+}
+
+.post_body {
+    margin:inherit
+}
+
+a:inherit{
+    color:inherit;
+    text-decoration:inherit;
+    text-shadow:inherit
+}
+
+.bottommenu {
+    color:inherit;
+    padding:inherit
+}
+
+.profile_status {
+    clear:inherit;
+    margin:inherit
+}
+
+.tcat a:inherit{
+    color:inherit
+}
+
+.aw {
+    padding:inherit;
+    text-align:inherit;
+    float:inherit;
+    margin:inherit
+}
+
+.high_warning {
+    color:inherit
+}
+
+.search_adv {
+    display:inherit;
+    background:inherit;
+    float:inherit;
+    margin-top:inherit;
+    margin-right:inherit;
+    padding:inherit;
+    border-radius:inherit;
+    color:inherit;
+    font-size:inherit
+}
+
+.reputation_positive {
+    color:inherit
+}
+
+.online {
+    color:inherit
+}
+
+.pagination_breadcrumb {
+    background-color:inherit;
+    border:inherit;
+    outline:inherit;
+    padding:inherit;
+    margin-top:inherit;
+    font-weight:inherit;
+    white-space:inherit
+}
+
+a.large_button:inherit{
+    background:inherit;
+    color:inherit;
+    text-decoration:inherit
+}
+
+select {
+    background:inherit;
+    padding:inherit;
+    border:inherit;
+    border-radius:inherit;
+    color:inherit
+}
+
+._minus {
+    background-color:inherit;
+    color:inherit
+}
+
+.thread_legend,.thread_legend dd {
+    margin:inherit;
+    padding:inherit
+}
+
+.pm_alert {
+    text-shadow:inherit;
+    background:inherit;
+    padding:inherit;
+    margin-bottom:inherit;
+    border-radius:inherit;
+    color:inherit;
+    text-align:inherit;
+    font-size:inherit
+}
+
+.autocomplete {
+    background:inherit;
+    border:inherit;
+    color:inherit;
+    text-align:inherit
+}
+
+.profile_username {
+    float:inherit;
+    font-size:inherit
+}
+
+.hiddenrow {
+    display:inherit
+}
+
+.wrap {
+    width:inherit;
+    margin:inherit;
+    text-align:inherit
+}
+
+.low_warning {
+    color:inherit
+}
+
+.trow_selected td {
+    background:inherit
+}
+
+.post_buttons a {
+    background:inherit;
+    padding:inherit;
+    border-radius:inherit;
+    font-size:inherit
+}
+
+.post_buttons a:inherit{
+    background:inherit;
+    color:inherit
+}
+
+input.textbox:inherit{
+    border:inherit;
+    outline:inherit;
+    color:inherit
+}
+
+.tfoot a:inherit{
+    color:inherit;
+    text-decoration:inherit
+}
+
+.large_icon {
+    background:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+.search_box {
+    background:inherit;
+    float:inherit;
+    width:inherit;
+    height:inherit;
+    margin-top:inherit;
+    border-radius:inherit
+}
+
+.search_box input.search_textbox:inherit{
+    outline:inherit
+}
+
+.search_box input.search_button:inherit{
+    opacity:inherit
+}
+
+.search_box input.search_textbox {
+    background:inherit;
+    float:inherit;
+    width:inherit;
+    margin-top:inherit;
+    padding:inherit;
+    border:inherit;
+    color:inherit;
+    font-size:inherit
+}
+
+.search_box input.search_button {
+    float:inherit;
+    margin-top:inherit;
+    padding:inherit
+}
+
+._neutral {
+    background-color:inherit;
+    color:inherit
+}
+
+.tcat a:inherit{
+    color:inherit
+}
+
+.reputation_negative {
+    color:inherit
+}
+
+.post_info {
+    display:inherit;
+    list-style:inherit;
+    margin:inherit;
+    padding:inherit
+}
+
+.post_info li {
+    background:inherit;
+    margin-top:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+form {
+    margin:inherit;
+    padding:inherit
+}
+
+.highlight {
+    background:inherit;
+    padding-top:inherit;
+    padding-bottom:inherit
+}
+
+div.error {
+    padding:inherit;
+    border-top:inherit;
+    border-bottom:inherit;
+    background:inherit;
+    font-size:inherit
+}
+
+div.error ul {
+    margin-left:inherit
+}
+
+div.error p {
+    margin:inherit;
+    color:inherit;
+    font-weight:inherit
+}
+
+div.error p em {
+    font-style:inherit;
+    padding-left:inherit;
+    display:inherit;
+    color:inherit;
+    background:inherit
+}
+
+.trow1,.trow2 {
+    background:inherit;
+    border-top:inherit;
+    border-bottom:inherit
+}
+
+.expcolimage {
+    float:inherit;
+    width:inherit;
+    vertical-align:inherit;
+    margin-top:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+.thead a:inherit{
+    color:inherit;
+    text-decoration:inherit
+}
+
+.tfoot .pagination,.tcat .pagination {
+    padding-top:inherit
+}
+
+#debug {
+    float:inherit;
+    text-align:inherit;
+    margin-top:inherit
+}
+
+#inner {
+    background-color:inherit;
+    background:inherit;
+    background-size:inherit
+}
+
+.menu ul li>a,.menu ul li a:inherit{
+    display:inherit;
+    position:inherit;
+    height:inherit;
+    padding:inherit;
+    color:inherit;
+    font-weight:inherit;
+    text-decoration:inherit
+}
+
+.profile_block {
+    padding:inherit;
+    border-bottom:inherit;
+    text-align:inherit
+}
+
+.reputation_neutral {
+    color:inherit
+}
+
+#footer {
+    background:inherit;
+    border-top:inherit;
+    margin-top:inherit;
+    padding:inherit;
+    color:inherit
+}
+
+#footer ul {
+    list-style:inherit;
+    margin:inherit;
+    padding:inherit
+}
+
+#footer .col_last {
+    float:inherit;
+    text-align:inherit
+}
+
+#footer li {
+    display:inherit
+}
+
+#footer hr.sep {
+    display:inherit;
+    clear:inherit;
+    background:inherit;
+    width:inherit;
+    height:inherit;
+    margin:inherit
+}
+
+#footer .col {
+    display:inherit;
+    float:inherit;
+    width:inherit;
+    margin-right:inherit
+}
+
+#footer h2 {
+    color:inherit
+}
+
+.codeblock {
+    background:inherit;
+    margin:inherit;
+    padding:inherit;
+    border:inherit;
+    border-radius:inherit
+}
+
+.codeblock code {
+    overflow:inherit;
+    height:inherit;
+    max-height:inherit;
+    display:inherit;
+    font-family:inherit;
+    font-size:inherit
+}
+
+.codeblock .title {
+    border-bottom:inherit;
+    font-weight:inherit;
+    margin:inherit
+}
+
+.editor {
+    background:inherit;
+    border:inherit
+}
+
+.minion {
+    background:inherit
+}
+
+#bridge {
+    background:inherit;
+    height:inherit;
+    width:inherit
+}
+
+.separator {
+    margin:inherit;
+    padding:inherit;
+    height:inherit;
+    font-size:inherit;
+    list-style-type:inherit
+}
+
+.validation_error {
+    background:inherit;
+    color:inherit;
+    margin:inherit;
+    padding:inherit;
+    font-weight:inherit;
+    font-size:inherit;
+    padding-left:inherit
+}
+
+#index_constraint {
+    float:inherit;
+    width:inherit
+}
+
+#posts {
+    margin-top:inherit
+}
+
+.profile_usertitle {
+    float:inherit;
+    position:inherit;
+    background:inherit;
+    margin-left:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+.profile_usertitle .arrow {
+    position:inherit;
+    top:inherit;
+    left:inherit;
+    width:inherit;
+    height:inherit;
+    border-top:inherit;
+    border-bottom:inherit;
+    border-right:inherit
+}
+
+.post_user {
+    list-style:inherit;
+    margin-top:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+.validation_success {
+    background:inherit;
+    color:inherit;
+    margin:inherit;
+    padding:inherit;
+    font-weight:inherit;
+    font-size:inherit;
+    padding-left:inherit
+}
+
+hr {
+    border-color:inherit
+}
+
+.return_top {
+    display:inherit;
+    position:inherit;
+    right:inherit;
+    bottom:inherit;
+    z-index:inherit
+}
+
+.trow_shaded {
+    background:inherit;
+    background:inherit;
+    color:inherit
+}
+
+.trow_shaded a {
+    color:inherit
+}
+
+.trow_sep {
+    background:inherit;
+    color:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    text-shadow:inherit
+}
+
+#header {
+    background:inherit;
+    position:inherit;
+    height:inherit;
+    border-bottom:inherit;
+    text-align:inherit;
+    height:inherit
+}
+
+.pagination {
+    font-size:inherit;
+    padding-top:inherit;
+    margin-bottom:inherit
+}
+
+.pagination a {
+    background:inherit;
+    color:inherit
+}
+
+.pagination .pagination_current {
+    background:inherit;
+    color:inherit
+}
+
+.pagination .pages {
+    font-weight:inherit
+}
+
+.pagination a:inherit{
+    background:inherit;
+    text-decoration:inherit
+}
+
+.popup_menu {
+    background:inherit;
+    margin-top:inherit;
+    border:inherit;
+    border-radius:inherit
+}
+
+.popup_menu a.popup_item:inherit{
+    text-decoration:inherit
+}
+
+.popup_menu .popup_item_container {
+    margin:inherit;
+    text-align:inherit
+}
+
+.popup_menu .popup_item:inherit{
+    background:inherit;
+    color:inherit
+}
+
+.popup_menu .popup_item {
+    background:inherit;
+    color:inherit;
+    display:inherit;
+    padding:inherit;
+    text-decoration:inherit;
+    text-transform:inherit;
+    white-space:inherit
+}
+
+.post_user li {
+    margin-top:inherit
+}
+
+.thread_legend dd {
+    padding-bottom:inherit;
+    margin-right:inherit
+}
+
+.thread_legend img {
+    margin-right:inherit;
+    vertical-align:inherit
+}
+
+.thead {
+    background:inherit;
+    color:inherit;
+    border-radius:inherit;
+    text-shadow:inherit
+}
+
+textarea {
+    background:inherit;
+    color:inherit;
+    border:inherit;
+    border-radius:inherit;
+    padding:inherit;
+    line-height:inherit;
+    font-size:inherit
+}
+
+.selectall {
+    background-color:inherit;
+    font-weight:inherit;
+    text-align:inherit
+}
+
+.subforumicon {
+    border:inherit;
+    vertical-align:inherit;
+    margin:inherit
+}
+
+.trow_profile {
+    background:inherit
+}
+
+ul.subforum_listing {
+    list-style:inherit;
+    margin:inherit;
+    padding:inherit
+}
+
+ul.subforum_listing li {
+    float:inherit;
+    width:inherit;
+    padding:inherit
+}
+
+.repbox {
+    font-size:inherit;
+    font-weight:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+.thead a:inherit{
+    color:inherit;
+    text-decoration:inherit
+}
+
+table {
+    color:inherit;
+    font-size:inherit
+}
+
+.error_message {
+    color:inherit;
+    font-weight:inherit;
+    font-size:inherit;
+    margin-bottom:inherit
+}
+
+.moderate_warning {
+    color:inherit
+}
+
+.tfoot {
+    background:inherit;
+    border-radius:inherit;
+    color:inherit;
+    text-shadow:inherit
+}
+
+.tfoot a:inherit{
+    color:inherit;
+    text-decoration:inherit
+}
+
+.tfoot a:inherit{
+    color:inherit;
+    text-decoration:inherit
+}
+
+.minioff {
+    background:inherit
+}
+
+.hovered {
+    background:inherit
+}
+
+.profile_avatar {
+    text-align:inherit
+}
+
+.profile_avatar img {
+    margin-bottom:inherit;
+    padding:inherit
+}
+
+.sidebar_toggle {
+    background:inherit;
+    padding:inherit;
+    border-radius:inherit;
+    float:inherit;
+    margin:inherit
+}
+
+.trow_reputation_neutral {
+    border-left:inherit
+}
+
+.btn-n:inherit{
+    background:inherit;
+    cursor:inherit
+}
+
+.spoiler_header {
+    border:inherit;
+    border-left:inherit;
+    margin:inherit;
+    background:inherit;
+    padding:inherit;
+    border-radius:inherit
+}
+
+select:inherit{
+    border:inherit;
+    outline:inherit;
+    color:inherit
+}
+
+.head {
+    border:inherit;
+    border-top-left-radius:inherit;
+    border-top-right-radius:inherit;
+    border-bottom:inherit;
+    padding:inherit;
+    height:inherit;
+    width:inherit;
+    margin:inherit;
+    background:inherit;
+    position:inherit;
+    margin-top:inherit
+}
+
+#content {
+    background:inherit
+}
+
+textarea:inherit{
+    border:inherit;
+    outline:inherit;
+    color:inherit
+}
+
+.offline {
+    color:inherit
+}
+
+.autocomplete_selected {
+    background:inherit;
+    color:inherit
+}
+
+.trow_reputation_positive {
+    border-left:inherit
+}
+
+.logo {
+    position:inherit;
+    top:inherit;
+    left:inherit;
+    right:inherit;
+    margin:inherit
+}
+
+.valid_field {
+    background:inherit;
+    padding:inherit;
+    border:inherit;
+    border-radius:inherit;
+    color:inherit
+}
+
+img.attachment {
+    border:inherit;
+    padding:inherit
+}
+
+img {
+    border:inherit
+}
+
+#container {
+    position:inherit;
+    background:inherit;
+    width:inherit;
+    margin:inherit;
+    padding:inherit;
+    color:inherit;
+    text-align:inherit
+}
+
+.forum_legend,.forum_legend dt,.forum_legend dd {
+    margin:inherit;
+    padding:inherit
+}
+
+._plus {
+    background-color:inherit;
+    color:inherit
+}
+
+a:inherit{
+    color:inherit;
+    cursor:inherit;
+    text-decoration:inherit
+}
+
+#panel ul li a:inherit{
+    text-align:inherit
+}
+
+.forum_legend dd {
+    float:inherit;
+    margin-right:inherit
+}
+
+.forum_legend dt {
+    margin-right:inherit;
+    float:inherit
+}
+
+.success_message {
+    color:inherit;
+    font-weight:inherit;
+    font-size:inherit;
+    margin-bottom:inherit
+}
+
+.quick_jump {
+    background:inherit;
+    width:inherit;
+    height:inherit;
+    padding-left:inherit;
+    vertical-align:inherit;
+    border:inherit
+}
+
+.validation_loading {
+    background:inherit;
+    color:inherit;
+    margin:inherit;
+    padding:inherit;
+    font-weight:inherit;
+    font-size:inherit;
+    padding-left:inherit
+}
+
+.hidden {
+    display:inherit;
+    float:inherit;
+    width:inherit
+}
+
+#panel .links {
+    margin:inherit;
+    float:inherit
+}
+
+#panel .remember_me input {
+    vertical-align:inherit;
+    margin-top:inherit
+}
+
+.smalltext {
+    font-size:inherit
+}
+
+.icon {
+    vertical-align:inherit;
+    margin-top:inherit
+}
+
+.largetext {
+    font-size:inherit;
+    font-weight:inherit
+}
+
+.editorholder {
+    width:inherit;
+    position:inherit
+}
+
+.aftererror {
+    position:inherit;
+    left:inherit;
+    bottom:inherit;
+    color:inherit
+}
+
+.afterholder {
+    position:inherit;
+    bottom:inherit;
+    right:inherit
+}
+
+.progress {
+    position:inherit;
+    top:inherit;
+    width:inherit;
+    height:inherit;
+    background:inherit
+}
+
+.imgholder {
+    display:inherit;
+    position:inherit;
+    margin-left:inherit;
+    overflow:inherit
+}
+
+.dragging {
+    border:inherit;
+    background:inherit;
+    color:inherit
+}
+
+.lazyYT-container {
+    position:inherit;
+    display:inherit;
+    height:inherit;
+    padding:inherit;
+    overflow:inherit;
+    background-color:inherit
+}
+
+.lazyYT-container iframe {
+    position:inherit;
+    top:inherit;
+    bottom:inherit;
+    left:inherit;
+    width:inherit;
+    height:inherit;
+    border:inherit
+}
+
+.ytp-thumbnail {
+    padding-bottom:inherit;
+    cursor:inherit;
+    background-position:inherit;
+    background-repeat:inherit;
+    background-size:inherit
+}
+
+.ytp-large-play-button {
+    position:inherit;
+    top:inherit;
+    left:inherit;
+    width:inherit;
+    height:inherit;
+    padding:inherit;
+    margin:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    line-height:inherit;
+    opacity:inherit
+}
+
+.ytp-large-play-button-svg {
+    opacity:inherit;
+    fill:inherit
+}
+
+.lazyYT-image-loaded:inherit{
+    opacity:inherit;
+    fill:inherit
+}
+
+.alert-nav {
+    background:inherit;
+    width:inherit;
+    border:inherit;
+    position:inherit;
+    z-index:inherit;
+    right:inherit;
+    display:inherit;
+    border-radius:inherit
+}
+
+.alert-title {
+    border-bottom:inherit;
+    background:inherit;
+    text-shadow:inherit;
+    text-align:inherit
+}
+
+.alert-bottom {
+    border:inherit;
+    border-top:inherit;
+    background:inherit;
+    text-align:inherit;
+    outline:inherit;
+    margin:inherit;
+    color:inherit;
+    text-shadow:inherit;
+    margin-top:inherit;
+    border-bottom-left-radius:inherit;
+    width:inherit
+}
+
+.alert-bottom:inherit{
+    cursor:inherit
+}
+
+.alert-alert {
+    padding:inherit;
+    overflow:inherit;
+    border-bottom:inherit;
+    white-space:inherit
+}
+
+.alert-alert:inherit{
+    border-bottom:inherit
+}
+
+.alert-main a {
+    text-shadow:inherit
+}
+
+.alert-close {
+    border:inherit;
+    margin:inherit;
+    border-left:inherit;
+    vertical-align:inherit;
+    float:inherit;
+    padding-left:inherit;
+    padding-right:inherit;
+    height:inherit;
+    background:inherit;
+    margin-top:inherit;
+    border-bottom-right-radius:inherit;
+    height:inherit;
+    border-top:inherit
+}
+
+.alert-click {
+    display:inherit;
+    float:inherit;
+    font-size:inherit;
+    position:inherit;
+    height:inherit;
+    padding:inherit;
+    color:inherit;
+    text-align:inherit
+}
+
+.alert-alerts {
+    text-align:inherit
+}
+
+.shadetabs {
+    padding:inherit;
+    margin-left:inherit;
+    margin-top:inherit;
+    margin-bottom:inherit;
+    list-style-type:inherit;
+    text-align:inherit
+}
+
+.shadetabs a {
+    display:inherit;
+    margin:inherit;
+    background-color:inherit;
+    position:inherit;
+    z-index:inherit;
+    padding:inherit;
+    margin-right:inherit;
+    border-radius:inherit;
+    cursor:inherit;
+    text-decoration:inherit;
+    color:inherit
+}
+
+.shadetabs a:inherit{
+    background-color:inherit;
+    transition:inherit
+}
+
+.shadetabs a:inherit{
+    color:inherit;
+    text-decoration:inherit
+}
+
+.shadetabs a.selected {
+    position:inherit;
+    background:inherit;
+    color:inherit
+}
+
+.tabcontent {
+    display:inherit
+}
+
+.modcp_nav_item {
+    display:inherit;
+    padding:inherit
+}
+
+.modqueue_message {
+    overflow:inherit;
+    max-height:inherit
+}
+
+.modqueue_controls {
+    width:inherit;
+    float:inherit;
+    text-align:inherit;
+    border:inherit;
+    background:inherit;
+    padding:inherit;
+    font-weight:inherit
+}
+
+.modqueue_controls label {
+    margin-right:inherit
+}
+
+.label_radio_approve,.label_radio_delete,.label_radio_ignore {
+    font-weight:inherit
+}
+
+.modqueue_meta {
+    color:inherit;
+    font-size:inherit;
+    margin-bottom:inherit
+}
+
+.modqueue_mass {
+    list-style:inherit;
+    margin:inherit;
+    width:inherit;
+    padding:inherit
+}
+
+.modqueue_mass li {
+    margin-bottom:inherit;
+    padding:inherit
+}
+
+.modqueue_mass li a {
+    display:inherit;
+    padding:inherit;
+    border:inherit
+}
+
+.modqueue_mass li a:inherit{
+    background:inherit;
+    border:inherit;
+    text-decoration:inherit
+}
+
+[class^=awards-],[class*=" awards-"] {
+    background-image:inherit;
+    background-position:inherit;
+    background-repeat:inherit;
+    display:inherit;
+    margin-left:inherit;
+    margin-bottom:inherit;
+    vertical-align:inherit;
+    height:inherit;
+    width:inherit
+}
+
+.awards-4 {
+    background-position:inherit
+}
+
+.awards-7 {
+    background-position:inherit
+}
+
+.awards-12 {
+    background-position:inherit
+}
+
+.awards-13 {
+    background-position:inherit
+}
+
+.awards-15 {
+    background-position:inherit
+}
+
+.awards-23 {
+    background-position:inherit
+}
+
+.awards-25 {
+    background-position:inherit
+}
+
+.awards-42 {
+    background-position:inherit
+}
+
+.awards-43 {
+    background-position:inherit
+}
+
+.awards-53 {
+    background-position:inherit
+}
+
+.awards-59 {
+    background-position:inherit
+}
+
+.awards-94 {
+    background-position:inherit
+}
+
+.awards-101 {
+    background-position:inherit
+}
+
+.awards-103 {
+    background-position:inherit
+}
+
+.awards-104 {
+    background-position:inherit
+}
+
+.awards-106 {
+    background-position:inherit
+}
+
+.awards-107 {
+    background-position:inherit
+}
+
+.awards-111 {
+    background-position:inherit
+}
+
+.awards-112 {
+    background-position:inherit
+}
+
+.awards-114 {
+    background-position:inherit
+}
+
+.awards-115 {
+    background-position:inherit
+}
+
+.awards-117 {
+    background-position:inherit
+}
+
+.awards-119 {
+    background-position:inherit
+}
+
+.awards-121 {
+    background-position:inherit
+}
+
+.awards-122 {
+    background-position:inherit
+}
+
+.awards-123 {
+    background-position:inherit
+}
+
+.awards-124 {
+    background-position:inherit
+}
+
+.awards-125 {
+    background-position:inherit
+}
+
+.awards-127 {
+    background-position:inherit
+}
+
+.awards-129 {
+    background-position:inherit
+}
+
+.awards-131 {
+    background-position:inherit
+}
+
+.awards-132 {
+    background-position:inherit
+}
+
+.awards-135 {
+    background-position:inherit
+}
+
+.awards-136 {
+    background-position:inherit
+}
+
+.awards-137 {
+    background-position:inherit
+}
+
+.awards-138 {
+    background-position:inherit
+}
+
+.awards-140 {
+    background-position:inherit
+}
+
+.awards-141 {
+    background-position:inherit
+}
+
+.awards-142 {
+    background-position:inherit
+}
+
+.awards-143 {
+    background-position:inherit
+}
+
+.awards-145 {
+    background-position:inherit
+}
+
+.awards-146 {
+    background-position:inherit
+}
+
+.awards-147 {
+    background-position:inherit
+}
+
+.awards-148 {
+    background-position:inherit
+}
+
+.awards-149 {
+    background-position:inherit
+}
+
+.awards-150 {
+    background-position:inherit
+}
+
+.awards-151 {
+    background-position:inherit
+}
+
+.awards-152 {
+    background-position:inherit
+}
+
+.awards-153 {
+    background-position:inherit
+}
+
+.awards-154 {
+    background-position:inherit
+}
+
+.awards-155 {
+    background-position:inherit
+}
+
+.awards-156 {
+    background-position:inherit
+}
+
+.awards-157 {
+    background-position:inherit
+}
+
+.ficon {
+    background-image:inherit;
+    background-position:inherit;
+    background-repeat:inherit;
+    display:inherit;
+    vertical-align:inherit;
+    height:inherit;
+    width:inherit
+}
+
+.ficons-4,.ficons-6,.ficons-7,.ficons-9,.ficons-10,.ficons-13,.ficons-16,.ficons-26,.ficons-28,.ficons-43,.ficons-44,.ficons-46,.ficons-47,.ficons-48,.ficons-49,.ficons-50,.ficons-51,.ficons-52,.ficons-53,.ficons-73,.ficons-77,.ficons-89,.ficons-119,.ficons-124,.ficons-137,.ficons-138,.ficons-145,.ficons-160,.ficons-162,.ficons-170,.ficons-175,.ficons-182,.ficons-183,.ficons-190,.ficons-196,.ficons-197,.ficons-250,.ficons-251,.ficons-253,.ficons-254,.ficons-260,.ficons-261,.ficons-271,.ficons-274,.ficons-276,.ficons-277,.ficons-293,.ficons-294,.ficons-295,.ficons-296,.ficons-303,.ficons-304,.ficons-305,.ficons-306,.ficons-307,.ficons-308,.ficons-309,.ficons-310,.ficons-311,.ficons-312,.ficons-313,.ficons-314,.ficons-315,.ficons-316,.ficons-317,.ficons-318,.ficons-319,.ficons-320,.ficons-321,.ficons-322,.ficons-325,.ficons-326,.ficons-327,.ficons-328,.ficons-329,.ficons-341,.ficons-342,.ficons-343,.ficons-344,.ficons-345,.ficons-348,.ficons-351,.ficons-352,.ficons-353,.ficons-354,.ficons-355,.ficons-356,.ficons-357,.ficons-358,.ficons-359,.ficons-360,.ficons-361,.ficons-362,.ficons-363,.ficons-364,.ficons-365,.ficons-366,.ficons-367,.ficons-368,.ficons-369,.ficons-370,.ficons-373,.ficons-376,.ficons-381,.ficons-382,.ficons-383,.ficons-384,.ficons-391,.ficons-392,.ficons-398,.ficons-404,.ficons-405,.ficons-406,.ficons-407,.ficons-408,.ficons-409,.ficons-411,.ficons-412,.ficons-413,.ficons-414,.ficons-415,.ficons-416,.ficons-417,.ficons-418,.ficons-419,.ficons-420,.ficons-421,.ficons-422,.ficons-423,.ficons-424,.ficons-425,.ficons-426,.ficons-427,.ficons-428,.ficons-439,.ficons-440,.ficons-441,.ficons-442,.ficons-445,.ficons-446,.ficons-447,.ficons-451,.ficons-454,.ficons-455,.ficons-463,.ficons-464,.ficons-465,.ficons-466,.ficons-467,.ficons-468,.ficons-470,.ficons-471,.ficons-472,.ficons-473,.ficons-475,.ficons-480,.ficons-481,.ficons-482,.ficons-483,.ficons-487,.ficons-488,.ficons-489,.ficons-490,.ficons-491,.ficons-492,.ficons-493,.ficons-496,.ficons-497,.ficons-498,.ficons-499,.ficons-500,.ficons-501,.ficons-502,.ficons-503,.ficons-504,.ficons-505,.ficons-506,.ficons-507,.ficons-508,.ficons-509,.ficons-510,.ficons-511,.ficons-512,.ficons-513,.ficons-514,.ficons-515,.ficons-516,.ficons-519,.ficons-520,.ficons-521,.ficons-522,.ficons-523,.ficons-525,.ficons-526,.ficons-527,.ficons-529,.ficons-530,.ficons-532,.ficons-533,.ficons-534,.ficons-535,.ficons-536,.ficons-537,.ficons-539,.ficons-540,.ficons-541,.ficons-542,.ficons-543,.ficons-544,.ficons-545,.ficons-546,.ficons-551,.ficons-554,.ficons-555,.ficons-556,.ficons-557,.ficons-558,.ficons-559,.ficons-560,.ficons-561,.ficons-562,.ficons-563,.ficons-566,.ficons-567,.ficons-568,.ficons-569,.ficons-571,.ficons-573,.ficons-575,.ficons-576,.ficons-577,.ficons-578,.ficons-579,.ficons-580,.ficons-582,.ficons-584,.ficons-586,.ficons-587,.ficons-588,.ficons-590,.ficons-591,.ficons-592,.ficons-593,.ficons-594,.ficons-597,.ficons-598,.ficons-599,.ficons-600,.ficons-601,.ficons-602,.ficons-603,.ficons-605,.ficons-606,.ficons-607,.ficons-608,.ficons-609,.ficons-612,.ficons-613,.ficons-614,.ficons-615,.ficons-619,.ficons-621,.ficons-623,.ficons-625,.ficons-628,.ficons-630,.ficons-632,.ficons-641,.ficons-642,.ficons-644,.ficons-645,.ficons-646,.ficons-647,.ficons-648,.ficons-649,.ficons-650,.ficons-651,.ficons-652,.ficons-653,.ficons-654,.ficons-655,.ficons-656,.ficons-657,.ficons-658,.ficons-659,.ficons-660,.ficons-661,.ficons-662,.ficons-663,.ficons-664,.ficons-666,.ficons-667,.ficons-668,.ficons-669,.ficons-670,.ficons-672,.ficons-674,.ficons-675,.ficons-676,.ficons-677,.ficons-678,.ficons-679,.ficons-680,.ficons-681,.ficons-682,.ficons-683,.ficons-684,.ficons-686,.ficons-687,.ficons-688,.ficons-689,.ficons-690,.ficons-692 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-12 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-15 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-18,.ficons-435,.ficons-456,.ficons-457,.ficons-459,.ficons-477,.ficons-478,.ficons-564,.ficons-572,.ficons-639,.ficons-691 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-20 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-21 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-24 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-25 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-41 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-42,.ficons-637 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-45,.ficons-620,.ficons-635 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-54 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-55 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-56,.ficons-538 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-57,.ficons-58 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-59,.ficons-570,.ficons-693 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-60 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-61 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-62,.ficons-484 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-71 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-74 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-75 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-78 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-79 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-80 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-81 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-86,.ficons-120,.ficons-121,.ficons-122,.ficons-123,.ficons-449 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-87 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-88 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-91 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-92 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-94 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-95 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-97 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-98 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-99 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-100 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-101 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-102 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-103 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-104,.ficons-583 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-112 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-117,.ficons-437,.ficons-549 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-118,.ficons-436 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-125 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-126 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-127,.ficons-159,.ficons-528,.ficons-604 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-136 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-139 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-140 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-141 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-142 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-146,.ficons-524,.ficons-565 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-147 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-148 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-149 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-150 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-153 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-154 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-157,.ficons-393,.ficons-394 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-158 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-161 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-163,.ficons-531,.ficons-547 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-171 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-173 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-176 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-178,.ficons-386,.ficons-387,.ficons-388,.ficons-389,.ficons-390,.ficons-462 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-181,.ficons-429,.ficons-430,.ficons-431,.ficons-432,.ficons-433,.ficons-434 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-184 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-185 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-186 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-187,.ficons-438,.ficons-553,.ficons-589 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-188 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-194 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-210 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-214 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-223 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-232,.ficons-453,.ficons-460,.ficons-461 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-234,.ficons-346,.ficons-347,.ficons-518,.ficons-673 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-238,.ficons-574,.ficons-685 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-247 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-248 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-249 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-252 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-258 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-262 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-263 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-264 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-265 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-266 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-267 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-268 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-270 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-272 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-273 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-275 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-289,.ficons-395,.ficons-396,.ficons-397,.ficons-399,.ficons-400,.ficons-401,.ficons-402,.ficons-403,.ficons-469 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-290 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-297,.ficons-486 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-302 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-323 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-349,.ficons-444,.ficons-634 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-377 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-379 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-380 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-385 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-443 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-450 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-452,.ficons-640 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-474 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-479 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-494 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-495 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-517 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-552 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-581 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-585 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-616 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-617 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-618 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-622 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-624 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-626 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-627 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-629 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-631 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-633 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-636 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-638 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-665 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.ficons-671 {
+    background-position:inherit;
+    width:inherit;
+    height:inherit
+}
+
+.usercp_nav_item {
+    display:inherit;
+    padding:inherit
+}
+
+.usercp_notepad {
+    width:inherit
+}
+
+.usercp_container {
+    margin:inherit;
+    padding:inherit;
+    border:inherit
+}
